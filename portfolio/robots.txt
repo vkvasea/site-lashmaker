@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Host: www.katylashbrow.ru
+Sitemap: https://www.katylashbrow.ru/sitemap.xml
